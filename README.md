@@ -87,19 +87,9 @@ Creating interactive websites, dashboards and modern web experiences.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhur-khedkar01&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhur-khedkar01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: [@Madhur-khedkar01](https://github.com/Madhur-khedkar01)
-- Email: Your public contact email
 
 ---
 
